@@ -43,7 +43,7 @@ const People = () => {
 
   return (
     <div>
-      <Table columns={columns} data={data.results} /* :D */ />
+      <Table columns={columns} data={data.results} /* :D    */ />
     </div>
   );
 };
